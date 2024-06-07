@@ -1,4 +1,4 @@
-![](_imgs/index.jpg)
+![](https://raw.githubusercontent.com/Rexezuge/Rexezuge.github.io/R-MAIN/_imgs/index.jpg)
 
 Here you can say lots of fun things about your site.
 
